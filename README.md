@@ -1,6 +1,6 @@
 # OCTANET_AUGUST
 
-<details open>
+<details close>
 <summary>Octanet_august</summary>
 
 * Landing Page
