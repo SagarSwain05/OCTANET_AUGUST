@@ -2,7 +2,7 @@
    In this internship that's provided by Octanet internship for the August month. Here in this internship i've done many projects like Landing page, To-Do list etc.
  These projects are made with web developing language like HTML, CSS & Javascript. Creating these web pages can add more experience to my frontend development work.
  Here the project details are given below.
-
+ 
 <details close>
 <summary>Landing Page</summary>
   
